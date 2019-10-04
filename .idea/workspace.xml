@@ -2,10 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0be0cc6b-4335-4a81-9f9a-573fcdf53279" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/HomeWork/Pe.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/HomeWork/PoliteTreatment.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/HomeWork/PoliteTreatment.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/HomeWork/PoliteTreatment.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/HomeWork/PoliteTreatment.class" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -44,13 +42,26 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.PoliteTreatment">
+  <component name="RunManager" selected="Application.Pe">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="les1.Main" />
       <module name="SampleProject" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="les1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Pe" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="HomeWork.Pe" />
+      <module name="SampleProject" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="HomeWork.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -86,6 +97,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Pe" />
         <item itemvalue="Application.PoliteTreatment" />
         <item itemvalue="Application.Rogue" />
         <item itemvalue="Application.Main" />
