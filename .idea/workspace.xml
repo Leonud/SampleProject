@@ -1,7 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="0be0cc6b-4335-4a81-9f9a-573fcdf53279" name="Default Changelist" comment="" />
+    <list default="true" id="0be0cc6b-4335-4a81-9f9a-573fcdf53279" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/HomeWork/symmetricDifferenceInt.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/les5/Human.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/les5/Scenario.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/les5/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/les5/Teacher.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/les5/TextAnalyzer/AnalyserRun.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/les5/TextAnalyzer/Analyzer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/les5/TextAnalyzer/KeyWordAnalyzer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/les5/TextAnalyzer/LengthAnalyzer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/les5/TextAnalyzer/SpamAnalyzer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/les5/TextAnalyzer/SwearAnalyser.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/les5/polite.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/les6/ArrayListExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/les6/ChuckNoris.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/les6/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/les6/MapExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -26,8 +44,11 @@
     </option>
   </component>
   <component name="ProjectId" id="1RZJ6ea0KCdzAPEzVpu505fqqsC" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.15" />
@@ -147,5 +168,8 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
   </component>
 </project>
