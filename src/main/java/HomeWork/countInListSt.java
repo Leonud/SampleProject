@@ -9,7 +9,7 @@ public class countInListSt {
             if(map.containsKey(x)) {
                 map.put(x,map.get(x) + 1);
             } else {
-                map.put(x,1);
+                 map.put(x,1);
             }
         }
         return map;
