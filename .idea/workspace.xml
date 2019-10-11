@@ -2,8 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0be0cc6b-4335-4a81-9f9a-573fcdf53279" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/HomeWork/Maps.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/HomeWork/countInListSt.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/HomeWork/symmetricDifferenceInt.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/HomeWork/symmetricDifferenceInt.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -52,7 +53,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.symmetricDifferenceInt">
+  <component name="RunManager" selected="Application.countInListSt">
     <configuration name="Pe" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="HomeWork.Pe" />
       <module name="SampleProject" />
@@ -79,12 +80,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Rogue" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="les1.Rogue" />
+    <configuration name="countInListSt" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="HomeWork.countInListSt" />
       <module name="SampleProject" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="les1.*" />
+          <option name="PATTERN" value="HomeWork.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -120,11 +121,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.countInListSt" />
         <item itemvalue="Application.symmetricDifferenceInt" />
         <item itemvalue="Application.deleteLongSt" />
         <item itemvalue="Application.Pe" />
         <item itemvalue="Application.PoliteTreatment" />
-        <item itemvalue="Application.Rogue" />
       </list>
     </recent_temporary>
   </component>
