@@ -1,4 +1,4 @@
-package HomeWork;
+package les6;
 
 import java.util.*;
 
