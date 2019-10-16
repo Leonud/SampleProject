@@ -1,4 +1,4 @@
-package Les8.CRUDLittleApp;
+package HomeWork.CRUDLittleApp;
 
 public class User {
     private String login;

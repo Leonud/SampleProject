@@ -1,4 +1,4 @@
-package Les8.CRUDLittleApp;
+package HomeWork.CRUDLittleApp;
 
 import java.util.Scanner;
 
